@@ -1,4 +1,4 @@
-# Music-Discord-bot
+# BOT-AIESEC
 Bot de música simples para o discord!
 
 Comandos: 
