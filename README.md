@@ -3,8 +3,8 @@ Bot de música simples para o discord!
 
 Comandos: 
 
-{prefix}tocar (your youtube link here); 
+.tocar (your youtube link here); 
 
-{prefix}pular;
+.pular;
 
-{prefix}parar;
+.parar;
