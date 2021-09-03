@@ -19,3 +19,6 @@
     "ytdl-core": "^4.1.4"
   }
 }
+{
+  ”start”: “node index”
+}
