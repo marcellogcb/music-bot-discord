@@ -1,7 +1,7 @@
 # Music-Discord-bot
-Discord music bot that actually works, just put your personal bot token and set your prefix in config.json and it will be ready to go!
+Bot de música simples para o discord!
 
-Commands that you can use: 
+Comandos: 
 
 {prefix}tocar (your youtube link here); 
 
