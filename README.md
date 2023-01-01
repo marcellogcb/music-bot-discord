@@ -8,3 +8,5 @@ Comandos:
 .pular;
 
 .parar;
+
+Atualizações em breve!
